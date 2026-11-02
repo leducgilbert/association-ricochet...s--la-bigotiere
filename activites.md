@@ -1,17 +1,18 @@
 ---
-title: Activités
+title: "Activités"
 order: 2
+in_menu: true
 ---
+L'association organise plusieurs "évènements" de plus ou moins grande importances
 
-L’association cherche à œuvrer en collaboration avec des organismes publics, des organisations privées et des individus.
+## le grand fest-noz "paysan", 
+sous chapiteau, sur terre battue qui a lieu en mai.
 
-## Nos activités
+## le festival Bien être, 
 
-A titre indicatif, les activités commerciales possibles sont (liste non-exhaustive) :
+mais aussi
+la fête de Noël
+des soirées ciné-échange
+des concerts, 
 
-- Accompagnement à la **création de structures** juridiques
-- Conception, développement et accompagnement de **produits innovants**
-- **Formation** d’enfants et d’adultes, par exemple dans les domaines de la communication non-violente, méthodologie lean et approche agile, les relations aux animaux, l’alimentation, la gestion de budget familial ou d’entreprise…
-- Projets à **impact environnemental positif**
-- Projets à **impact social positif**
-- Vente d’objets ou de denrées alimentaires, avec **impact humain ou environnemental positif**
+Il y a également possibilité de prendre part à des chantiers participatifs pour la rénovation de la grange. 
